@@ -895,4 +895,9 @@ window.onload = () => {
   });
   renderFingerCarousel();
   renderPostureCarousel();
+
+
+
+// on- call
+
 };
